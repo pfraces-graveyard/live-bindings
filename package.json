@@ -4,7 +4,8 @@
   "description": "Model-View live bindings",
   "main": "./lib/index.js",
   "dependencies": {
-    "dal": ""
+    "dal": "",
+    "traverse": ""
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

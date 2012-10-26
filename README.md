@@ -19,6 +19,8 @@ js:
 # Install
 
     $ npm install live-bindings
+    $ cd live-bindings
+    $ npm install
 
 # Status
 
