@@ -1,6 +1,6 @@
 {
   "name": "live-bindings",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Model-View live bindings",
   "main": "./lib/index.js",
   "dependencies": {

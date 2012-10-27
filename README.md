@@ -29,9 +29,19 @@ this time.
 
 # Api
 
-## bind(data)
+## bound = bind(data)
 
 Binds each property from the data object with the elements in the DOM
+
+`bound` is an object with the following methods
+
+### set(path, x, cb)
+
+Updates the model and the view
+
+*   `path` is a dot sepparated string
+*   `x` is the new value to set
+*   `cb(err, path, x)` is called for server synchronization purposes
 
 # References
 
