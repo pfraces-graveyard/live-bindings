@@ -33,9 +33,7 @@ this time.
 
 Binds each property from the data object with the elements in the DOM
 
-`bound` is an object with the following methods
-
-### set(path, x, cb)
+### bound.set(path, x, cb)
 
 Updates the model and the view
 
