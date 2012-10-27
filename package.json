@@ -1,6 +1,6 @@
 {
   "name": "live-bindings",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Model-View live bindings",
   "main": "./lib/index.js",
   "dependencies": {
@@ -15,7 +15,6 @@
     "url": "https://github.com/pfraces/live-bindings.git"
   },
   "keywords": [
-    "live-bindings",
     "template",
     "bindings",
     "knockout",

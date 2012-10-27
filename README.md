@@ -36,7 +36,7 @@ Binds each property from the data object with the elements in the DOM
 # References
 
 *   http://knockoutjs.com
-*   http://flatironjs.org
+*   https://github.com/flatiron/plates
 
 # Contribute
 
